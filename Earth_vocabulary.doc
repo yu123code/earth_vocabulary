@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Earth Vocabulary Lists</title>
+  <style>
+    body { font-family: Arial, sans-serif; font-size: 12pt; }
+    h2 { margin-top: 24px; }
+    table { border-collapse: collapse; width: 100%; margin-bottom: 18px; }
+    th, td { border: 1px solid #333; padding: 6px; text-align: left; }
+    th { background: #f0f0f0; }
+  </style>
+</head>
+<body>
+  <h1>Earth Vocabulary Lists</h1>
+
+  <h2>List 1 地球结构 &amp; 大气</h2>
+  <table>
+    <tr><th>单词</th><th>音标</th><th>词性 &amp; 中文释义</th></tr>
+    <tr><td>atmosphere</td><td>/ˈætməsfɪə(r)/</td><td>n. 大气；大气层；氛围</td></tr>
+    <tr><td>lithosphere</td><td>/ˈlɪθəsfɪə(r)/</td><td>n. 岩石圈</td></tr>
+    <tr><td>hydrosphere</td><td>/ˈhaɪdrəsfɪə(r)/</td><td>n. 水圈</td></tr>
+    <tr><td>oxygen</td><td>/ˈɒksɪdʒən/</td><td>n. 氧气</td></tr>
+    <tr><td>oxide</td><td>/ˈɒksaɪd/</td><td>n. 氧化物</td></tr>
+    <tr><td>hydrogen</td><td>/ˈhaɪdrədʒən/</td><td>n. 氢气</td></tr>
+    <tr><td>crust</td><td>/krʌst/</td><td>n. 地壳；外壳</td></tr>
+    <tr><td>mantle</td><td>/ˈmæntl/</td><td>n. 地幔；斗篷</td></tr>
+    <tr><td>longitude</td><td>/ˈlɒŋɡɪtjuːd/</td><td>n. 经度</td></tr>
+    <tr><td>latitude</td><td>/ˈlætɪtjuːd/</td><td>n. 纬度</td></tr>
+    <tr><td>horizon</td><td>/həˈraɪzn/</td><td>n. 地平线；眼界</td></tr>
+    <tr><td>altitude</td><td>/ˈæltɪtjuːd/</td><td>n. 海拔，高度</td></tr>
+    <tr><td>disaster</td><td>/dɪˈzɑːstə(r)/</td><td>n. 灾难</td></tr>
+    <tr><td>mishap</td><td>/ˈmɪshæp/</td><td>n. 小事故，灾祸</td></tr>
+    <tr><td>catastrophic</td><td>/ˌkætəˈstrɒfɪk/</td><td>adj. 灾难性的</td></tr>
+    <tr><td>calamity</td><td>/kəˈlæməti/</td><td>n. 大灾难，灾祸</td></tr>
+    <tr><td>endanger</td><td>/ɪnˈdeɪndʒə(r)/</td><td>v. 危及，使遭受危险</td></tr>
+    <tr><td>jeopardise</td><td>/ˈdʒepədaɪz/</td><td>v. 危害，损害（=jeopardize）</td></tr>
+    <tr><td>destructive</td><td>/dɪˈstrʌktɪv/</td><td>adj. 毁灭性的</td></tr>
+    <tr><td>phenomenon</td><td>/fəˈnɒmɪnən/</td><td>n. 现象（pl. phenomena）</td></tr>
+    <tr><td>El Niño</td><td>/el ˈniːnjəʊ/</td><td>n. 厄尔尼诺现象</td></tr>
+    <tr><td>greenhouse</td><td>/ˈɡriːnhaʊs/</td><td>n. 温室；暖房</td></tr>
+    <tr><td>pebble</td><td>/ˈpebl/</td><td>n. 卵石，小圆石</td></tr>
+    <tr><td>magnet</td><td>/ˈmæɡnət/</td><td>n. 磁铁；磁体</td></tr>
+    <tr><td>ore</td><td>/ɔː(r)/</td><td>n. 矿石</td></tr>
+    <tr><td>mineral</td><td>/ˈmɪnərəl/</td><td>n. 矿物；adj. 矿物的</td></tr>
+    <tr><td>marble</td><td>/ˈmɑːbl/</td><td>n. 大理石</td></tr>
+    <tr><td>quartz</td><td>/kwɔːts/</td><td>n. 石英</td></tr>
+    <tr><td>granite</td><td>/ˈɡrænɪt/</td><td>n. 花岗岩</td></tr>
+    <tr><td>gust</td><td>/ɡʌst/</td><td>n. 一阵狂风；v. 猛刮</td></tr>
+    <tr><td>breeze</td><td>/briːz/</td><td>n. 微风</td></tr>
+    <tr><td>monsoon</td><td>/ˌmɒnˈsuːn/</td><td>n. 季风</td></tr>
+    <tr><td>gale</td><td>/ɡeɪl/</td><td>n. 大风，狂风</td></tr>
+    <tr><td>hurricane</td><td>/ˈhʌrɪkən/</td><td>n. 飓风</td></tr>
+    <tr><td>tornado</td><td>/tɔːˈneɪdəʊ/</td><td>n. 龙卷风</td></tr>
+    <tr><td>typhoon</td><td>/taɪˈfuːn/</td><td>n. 台风</td></tr>
+    <tr><td>volcano</td><td>/vɒlˈkeɪnəʊ/</td><td>n. 火山</td></tr>
+    <tr><td>erupt</td><td>/ɪˈrʌpt/</td><td>v.（火山）爆发；喷发</td></tr>
+    <tr><td>magma</td><td>/ˈmæɡmə/</td><td>n. 岩浆</td></tr>
+    <tr><td>thermodynamic</td><td>/ˌθɜːməʊdaɪˈnæmɪk/</td><td>adj. 热力学的</td></tr>
+    <tr><td>smog</td><td>/smɒɡ/</td><td>n. 烟雾</td></tr>
+    <tr><td>fume</td><td>/fjuːm/</td><td>n.（浓烈的）烟，气；v. 冒烟</td></tr>
+    <tr><td>mist</td><td>/mɪst/</td><td>n. 薄雾</td></tr>
+    <tr><td>tsunami</td><td>/tsuːˈnɑːmi/</td><td>n. 海啸</td></tr>
+    <tr><td>drought</td><td>/draʊt/</td><td>n. 干旱</td></tr>
+    <tr><td>flooding</td><td>/ˈflʌdɪŋ/</td><td>n. 洪水泛滥</td></tr>
+    <tr><td>torrent</td><td>/ˈtɒrənt/</td><td>n. 激流，洪流</td></tr>
+    <tr><td>earthquake</td><td>/ˈɜːθkweɪk/</td><td>n. 地震</td></tr>
+    <tr><td>seismic</td><td>/ˈsaɪzmɪk/</td><td>adj. 地震的；有关地震的</td></tr>
+    <tr><td>avalanche</td><td>/ˈævəlɑːnʃ/</td><td>n. 雪崩</td></tr>
+    <tr><td>terrain</td><td>/təˈreɪn/</td><td>n. 地形，地势</td></tr>
+    <tr><td>landscape</td><td>/ˈlændskeɪp/</td><td>n. 风景；地貌</td></tr>
+    <tr><td>continent</td><td>/ˈkɒntɪnənt/</td><td>n. 大陆，洲</td></tr>
+    <tr><td>cave</td><td>/keɪv/</td><td>n. 洞穴</td></tr>
+    <tr><td>cliff</td><td>/klɪf/</td><td>n. 悬崖，峭壁</td></tr>
+    <tr><td>glacier</td><td>/ˈɡlæsiə(r)/</td><td>n. 冰川，冰河</td></tr>
+    <tr><td>swamp</td><td>/swɒmp/</td><td>n. 沼泽，湿地</td></tr>
+    <tr><td>delta</td><td>/ˈdeltə/</td><td>n. 三角洲</td></tr>
+  </table>
+
+  <h2>List 2 地形 &amp; 海陆</h2>
+  <table>
+    <tr><th>单词</th><th>音标</th><th>词性 &amp; 中文释义</th></tr>
+    <tr><td>plain</td><td>/pleɪn/</td><td>n. 平原；adj. 平坦的</td></tr>
+    <tr><td>plateau</td><td>/ˈplætəʊ/</td><td>n. 高原；稳定期</td></tr>
+    <tr><td>oasis</td><td>/əʊˈeɪsɪs/</td><td>n. 绿洲</td></tr>
+    <tr><td>globe</td><td>/ɡləʊb/</td><td>n. 地球仪；球体；地球</td></tr>
+    <tr><td>hemisphere</td><td>/ˈhemɪsfɪə(r)/</td><td>n. 半球</td></tr>
+    <tr><td>sphere</td><td>/sfɪə(r)/</td><td>n. 球体；领域，范围</td></tr>
+    <tr><td>equator</td><td>/ɪˈkweɪtə(r)/</td><td>n. 赤道</td></tr>
+    <tr><td>Antarctic</td><td>/ænˈtɑːktɪk/</td><td>adj. 南极的；n. 南极地区</td></tr>
+    <tr><td>Arctic</td><td>/ˈɑːktɪk/</td><td>adj. 北极的；n. 北极地区</td></tr>
+    <tr><td>polar</td><td>/ˈpəʊlə(r)/</td><td>adj. 极地的；两极的</td></tr>
+    <tr><td>pole</td><td>/pəʊl/</td><td>n. 极点；杆</td></tr>
+    <tr><td>deteriorate</td><td>/dɪˈtɪəriəreɪt/</td><td>v. 恶化，衰退</td></tr>
+    <tr><td>aggravate</td><td>/ˈæɡrəveɪt/</td><td>v. 加重，加剧</td></tr>
+    <tr><td>degrade</td><td>/dɪˈɡreɪd/</td><td>v. 降解；退化；降低</td></tr>
+    <tr><td>upgrade</td><td>/ˌʌpˈɡreɪd/</td><td>v. 升级；改善</td></tr>
+    <tr><td>erode</td><td>/ɪˈrəʊd/</td><td>v. 侵蚀，腐蚀</td></tr>
+    <tr><td>Mediterranean</td><td>/ˌmedɪtəˈreɪniən/</td><td>adj. 地中海的</td></tr>
+    <tr><td>Atlantic</td><td>/ætˈlæntɪk/</td><td>n. 大西洋；adj. 大西洋的</td></tr>
+    <tr><td>Pacific</td><td>/pəˈsɪfɪk/</td><td>n. 太平洋；adj. 太平洋的</td></tr>
+    <tr><td>coastline</td><td>/ˈkəʊstlaɪn/</td><td>n. 海岸线</td></tr>
+    <tr><td>navigation</td><td>/ˌnævɪˈɡeɪʃn/</td><td>n. 航行；导航</td></tr>
+    <tr><td>gulf</td><td>/ɡʌlf/</td><td>n. 海湾</td></tr>
+    <tr><td>coast</td><td>/kəʊst/</td><td>n. 海岸</td></tr>
+    <tr><td>shore</td><td>/ʃɔː(r)/</td><td>n. 岸，滨</td></tr>
+    <tr><td>tide</td><td>/taɪd/</td><td>n. 潮汐；潮流</td></tr>
+    <tr><td>current</td><td>/ˈkʌrənt/</td><td>n. 水流；电流；adj. 当前的</td></tr>
+    <tr><td>brook</td><td>/brʊk/</td><td>n. 小溪</td></tr>
+    <tr><td>source</td><td>/sɔːs/</td><td>n. 源头；来源</td></tr>
+    <tr><td>shallow</td><td>/ˈʃæləʊ/</td><td>adj. 浅的</td></tr>
+    <tr><td>superficial</td><td>/ˌsuːpəˈfɪʃl/</td><td>adj. 表面的；肤浅的</td></tr>
+    <tr><td>flat</td><td>/flæt/</td><td>adj. 平坦的；扁平的</td></tr>
+    <tr><td>smooth</td><td>/smuːð/</td><td>adj. 光滑的；平稳的</td></tr>
+    <tr><td>rough</td><td>/rʌf/</td><td>adj. 粗糙的；汹涌的</td></tr>
+    <tr><td>sandy</td><td>/ˈsændi/</td><td>adj. 沙地的；含沙的</td></tr>
+    <tr><td>stony</td><td>/ˈstəʊni/</td><td>adj. 多石的</td></tr>
+    <tr><td>steep</td><td>/stiːp/</td><td>adj. 陡峭的</td></tr>
+    <tr><td>parallel</td><td>/ˈpærəlel/</td><td>adj. 平行的；n. 平行线</td></tr>
+    <tr><td>undulate</td><td>/ˈʌndjuleɪt/</td><td>v. 起伏，波动</td></tr>
+    <tr><td>summit</td><td>/ˈsʌmɪt/</td><td>n. 山顶；峰会</td></tr>
+    <tr><td>climate</td><td>/ˈklaɪmət/</td><td>n. 气候</td></tr>
+    <tr><td>weather</td><td>/ˈweðə(r)/</td><td>n. 天气</td></tr>
+    <tr><td>meteorology</td><td>/ˌmiːtiəˈrɒlədʒi/</td><td>n. 气象学</td></tr>
+    <tr><td>mild</td><td>/maɪld/</td><td>adj. 温和的；轻微的</td></tr>
+    <tr><td>moderate</td><td>/ˈmɒdərət/</td><td>adj. 适度的；温和的</td></tr>
+    <tr><td>thermal</td><td>/ˈθɜːml/</td><td>adj. 热的；热量���</td></tr>
+    <tr><td>tropics</td><td>/ˈtrɒpɪks/</td><td>n. 热带地区</td></tr>
+    <tr><td>arid</td><td>/ˈærɪd/</td><td>adj. 干旱的</td></tr>
+    <tr><td>moist</td><td>/mɔɪst/</td><td>adj. 湿润的</td></tr>
+    <tr><td>damp</td><td>/dæmp/</td><td>adj. 潮湿的；n. 湿气</td></tr>
+    <tr><td>humid</td><td>/ˈhjuːmɪd/</td><td>adj. 潮湿的</td></tr>
+  </table>
+
+  <h2>List 3 气象、地质作用</h2>
+  <table>
+    <tr><th>单词</th><th>音标</th><th>词性 &amp; 中文释义</th></tr>
+    <tr><td>frost</td><td>/frɒst/</td><td>n. 霜；霜冻；v. 结霜</td></tr>
+    <tr><td>hail</td><td>/heɪl/</td><td>n. 冰雹；v. 下冰雹</td></tr>
+    <tr><td>thaw</td><td>/θɔː/</td><td>v.（冰雪）融化；解冻</td></tr>
+    <tr><td>freeze</td><td>/friːz/</td><td>v. 结冰；冻结（过去式 froze，过去分词 frozen）</td></tr>
+    <tr><td>frigid</td><td>/ˈfrɪdʒɪd/</td><td>adj. 寒冷的</td></tr>
+    <tr><td>soggy</td><td>/ˈsɒɡi/</td><td>adj. 湿透的</td></tr>
+    <tr><td>thunder</td><td>/ˈθʌndə(r)/</td><td>n. 雷；v. 打雷</td></tr>
+    <tr><td>lightning</td><td>/ˈlaɪtnɪŋ/</td><td>n. 闪电</td></tr>
+    <tr><td>downpour</td><td>/ˈdaʊnpɔː(r)/</td><td>n. 倾盆大雨</td></tr>
+    <tr><td>sprinkle</td><td>/ˈsprɪŋkl/</td><td>v. 撒；下小雨</td></tr>
+    <tr><td>rainbow</td><td>/ˈreɪnbəʊ/</td><td>n. 彩虹</td></tr>
+    <tr><td>Celsius</td><td>/ˈselsiəs/</td><td>n. 摄氏度</td></tr>
+    <tr><td>forecast</td><td>/ˈfɔːkɑːst/</td><td>v./n. 预报，预测</td></tr>
+    <tr><td>range</td><td>/reɪndʒ/</td><td>n. 山脉；范围；v. 变化</td></tr>
+    <tr><td>mountain</td><td>/ˈmaʊntən/</td><td>n. 山</td></tr>
+    <tr><td>ridge</td><td>/rɪdʒ/</td><td>n. 山脊；山脉</td></tr>
+    <tr><td>slope</td><td>/sləʊp/</td><td>n. 斜坡，坡地</td></tr>
+    <tr><td>valley</td><td>/ˈvæli/</td><td>n. 山谷，峡谷</td></tr>
+    <tr><td>overlook</td><td>/ˌəʊvəˈlʊk/</td><td>v. 俯瞰；忽略</td></tr>
+    <tr><td>southern</td><td>/ˈsʌðən/</td><td>adj. 南部的</td></tr>
+    <tr><td>southeast</td><td>/ˌsaʊθˈiːst/</td><td>n./adj. 东南（的）</td></tr>
+    <tr><td>northeast</td><td>/ˌnɔːθˈiːst/</td><td>n./adj. 东北（的）</td></tr>
+    <tr><td>northwest</td><td>/ˌnɔːθˈwest/</td><td>n./adj. 西北（的）</td></tr>
+    <tr><td>eastern</td><td>/ˈiːstən/</td><td>adj. 东部的</td></tr>
+    <tr><td>oriental</td><td>/ˌɒriˈentl/</td><td>adj. 东方的</td></tr>
+    <tr><td>inevitable</td><td>/ɪnˈevɪtəbl/</td><td>adj. 不可避免的</td></tr>
+    <tr><td>irreversible</td><td>/ˌɪrɪˈvɜːsəbl/</td><td>adj. 不可逆转的</td></tr>
+    <tr><td>inappropriate</td><td>/ˌɪnəˈprəʊpriət/</td><td>adj. 不合适的</td></tr>
+    <tr><td>abnormal</td><td>/æbˈnɔːml/</td><td>adj. 反常的</td></tr>
+    <tr><td>sediment</td><td>/ˈsedɪmənt/</td><td>n. 沉积物</td></tr>
+    <tr><td>silt</td><td>/sɪlt/</td><td>n. 淤泥，泥沙</td></tr>
+    <tr><td>muddy</td><td>/ˈmʌdi/</td><td>adj. 泥泞的</td></tr>
+    <tr><td>clay</td><td>/kleɪ/</td><td>n. 黏土</td></tr>
+    <tr><td>dirt</td><td>/dɜːt/</td><td>n. 泥土；尘土</td></tr>
+    <tr><td>mud</td><td>/mʌd/</td><td>n. 泥</td></tr>
+    <tr><td>turf</td><td>/tɜːf/</td><td>n. 草皮；泥炭</td></tr>
+    <tr><td>barren</td><td>/ˈbærən/</td><td>adj. 贫瘠的；荒芜的</td></tr>
+    <tr><td>remote</td><td>/rɪˈməʊt/</td><td>adj. 遥远的；偏远的</td></tr>
+    <tr><td>desolate</td><td>/ˈdesələt/</td><td>adj. 荒凉的</td></tr>
+    <tr><td>distant</td><td>/ˈdɪstənt/</td><td>adj. 遥远的</td></tr>
+    <tr><td>adjacent</td><td>/əˈdʒeɪsnt/</td><td>adj. 邻近的</td></tr>
+    <tr><td>pollution</td><td>/pəˈluːʃn/</td><td>n. 污染</td></tr>
+    <tr><td>pollutant</td><td>/pəˈluːtənt/</td><td>n. 污染物</td></tr>
+    <tr><td>contaminate</td><td>/kənˈtæmɪneɪt/</td><td>v. 污染，弄脏</td></tr>
+    <tr><td>geology</td><td>/dʒiˈɒlədʒi/</td><td>n. 地质学</td></tr>
+    <tr><td>border</td><td>/ˈbɔːdə(r)/</td><td>n. 边界；v. 毗邻</td></tr>
+    <tr><td>margin</td><td>/ˈmɑːdʒɪn/</td><td>n. 边缘；差额</td></tr>
+  </table>
+
+  <h2>List 4 环境与保护</h2>
+  <table>
+    <tr><th>单词</th><th>音标</th><th>词性 &amp; 中文释义</th></tr>
+    <tr><td>conservation</td><td>/ˌkɒnsəˈveɪʃn/</td><td>n. 保护；保存</td></tr>
+    <tr><td>preserve</td><td>/prɪˈzɜːv/</td><td>v. 保护；保存；n. 保护区</td></tr>
+    <tr><td>reserve</td><td>/rɪˈzɜːv/</td><td>v. 保留；预定；n. 保护区；储备</td></tr>
+    <tr><td>reservation</td><td>/ˌrezəˈveɪʃn/</td><td>n. 保留；预定；保护区</td></tr>
+    <tr><td>sanctuary</td><td>/ˈsæŋktʃuəri/</td><td>n. 避难所；禁猎区</td></tr>
+    <tr><td>refuge</td><td>/ˈrefjuːdʒ/</td><td>n. 避难；避难所</td></tr>
+    <tr><td>habitat</td><td>/ˈhæbɪtæt/</td><td>n. 栖息地</td></tr>
+    <tr><td>inhabit</td><td>/ɪnˈhæbɪt/</td><td>v. 居住于，栖息于</td></tr>
+    <tr><td>inhabitant</td><td>/ɪnˈhæbɪtənt/</td><td>n. 居民，栖息动物</td></tr>
+    <tr><td>dwelling</td><td>/ˈdwelɪŋ/</td><td>n. 住所，住处</td></tr>
+    <tr><td>dominate</td><td>/ˈdɒmɪneɪt/</td><td>v. 支配；占优势</td></tr>
+    <tr><td>dominant</td><td>/ˈdɒmɪnənt/</td><td>adj. 占主导的，优势的</td></tr>
+    <tr><td>predominant</td><td>/prɪˈdɒmɪnənt/</td><td>adj. 主要的��占主导地位的</td></tr>
+    <tr><td>diminish</td><td>/dɪˈmɪnɪʃ/</td><td>v. 减少，降低</td></tr>
+    <tr><td>vanish</td><td>/ˈvænɪʃ/</td><td>v. 消失，消亡</td></tr>
+    <tr><td>extinct</td><td>/ɪkˈstɪŋkt/</td><td>adj. 灭绝的；熄灭的</td></tr>
+    <tr><td>extinction</td><td>/ɪkˈstɪŋkʃn/</td><td>n. 灭绝，消亡</td></tr>
+    <tr><td>endangered</td><td>/ɪnˈdeɪndʒəd/</td><td>adj. 濒临灭绝的</td></tr>
+    <tr><td>vulnerable</td><td>/ˈvʌlnərəbl/</td><td>adj. 易受伤害的；脆弱的</td></tr>
+    <tr><td>susceptible</td><td>/səˈseptəbl/</td><td>adj. 易受影响的</td></tr>
+    <tr><td>fragile</td><td>/ˈfrædʒaɪl/</td><td>adj. 脆弱的，易碎的</td></tr>
+    <tr><td>brittle</td><td>/ˈbrɪtl/</td><td>adj. 易碎的；脆弱的</td></tr>
+    <tr><td>robust</td><td>/rəʊˈbʌst/</td><td>adj. 强健的；坚固的</td></tr>
+    <tr><td>fertile</td><td>/ˈfɜːtaɪl/</td><td>adj. 肥沃的；多产的</td></tr>
+    <tr><td>fertility</td><td>/fəˈtɪləti/</td><td>n. 肥沃；丰产</td></tr>
+    <tr><td>infertile</td><td>/ɪnˈfɜːtaɪl/</td><td>adj. 贫瘠的；不生育的</td></tr>
+    <tr><td>fertilise</td><td>/ˈfɜːtəlaɪz/</td><td>v. 施肥；使受精（fertilize）</td></tr>
+    <tr><td>fertiliser</td><td>/ˈfɜːtəlaɪzə(r)/</td><td>n. 肥料（fertilizer）</td></tr>
+    <tr><td>manure</td><td>/məˈnjʊə(r)/</td><td>n. 粪肥</td></tr>
+    <tr><td>compost</td><td>/ˈkɒmpɒst/</td><td>n. 堆肥</td></tr>
+    <tr><td>nutrient</td><td>/ˈnjuːtriənt/</td><td>n. 营养物；adj. 营养的</td></tr>
+    <tr><td>deficiency</td><td>/dɪˈfɪʃnsi/</td><td>n. 缺乏，不足</td></tr>
+    <tr><td>scarce</td><td>/skeəs/</td><td>adj. 稀缺的，不足的</td></tr>
+    <tr><td>scarcity</td><td>/ˈskeəsəti/</td><td>n. 缺乏，短缺</td></tr>
+    <tr><td>abundant</td><td>/əˈbʌndənt/</td><td>adj. 大量的，丰富的</td></tr>
+    <tr><td>abundance</td><td>/əˈbʌndəns/</td><td>n. 丰富，充裕</td></tr>
+    <tr><td>plentiful</td><td>/ˈplentɪfl/</td><td>adj. 充足的，大量的</td></tr>
+    <tr><td>adequate</td><td>/ˈædɪkwət/</td><td>adj. 足够的，适当的</td></tr>
+    <tr><td>sufficient</td><td>/səˈfɪʃnt/</td><td>adj. 充足的</td></tr>
+    <tr><td>surplus</td><td>/ˈsɜːpləs/</td><td>n. 过剩；adj. 过剩的</td></tr>
+    <tr><td>deficit</td><td>/ˈdefɪsɪt/</td><td>n. 赤字；不足</td></tr>
+    <tr><td>exhaust</td><td>/ɪɡˈzɔːst/</td><td>v. 耗尽；使筋疲力尽；n. 废气</td></tr>
+    <tr><td>deplete</td><td>/dɪˈpliːt/</td><td>v. 耗尽，大量消耗</td></tr>
+    <tr><td>depletion</td><td>/dɪˈpliːʃn/</td><td>n. 耗尽，枯竭</td></tr>
+    <tr><td>recycle</td><td>/ˌriːˈsaɪkl/</td><td>v. 回收利用</td></tr>
+    <tr><td>reusable</td><td>/ˌriːˈjuːzəbl/</td><td>adj. 可重复使用的</td></tr>
+    <tr><td>renewable</td><td>/rɪˈnjuːəbl/</td><td>adj. 可再生的</td></tr>
+    <tr><td>non‑renewable</td><td>/ˌnɒn rɪˈnjuːəbl/</td><td>adj. 不可再生的</td></tr>
+    <tr><td>sustainable</td><td>/səˈsteɪnəbl/</td><td>adj. 可持续的</td></tr>
+  </table>
+
+  <p>生成于：2026-09-14</p>
+</body>
+</html>
